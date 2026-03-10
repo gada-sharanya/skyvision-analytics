@@ -63,7 +63,7 @@ SkyVision Analytics
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/skyvision-analytics.git
+git clone https://github.com/gada-sharanya/skyvision-analytics.git
 cd skyvision-analytics
 ```
 
