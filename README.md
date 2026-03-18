@@ -235,6 +235,17 @@ curl -X POST http://localhost:8001/api/seed-data
 
 ---
 
+Some snapshots of all enhancements made:
+
+<img width="1160" height="668" alt="globe" src="https://github.com/user-attachments/assets/a90780ec-7a38-4b48-b6df-984fb1ec9e66" />
+
+<img width="1700" height="198" alt="db_enhancement" src="https://github.com/user-attachments/assets/1970818a-00bb-4858-9936-fbd71e354a23" />
+
+<img width="1680" height="710" alt="delay_flights" src="https://github.com/user-attachments/assets/a4096833-b8d1-4f8c-a2fc-284dcd74c342" />
+
+<img width="1736" height="610" alt="add_edit_export_functionality" src="https://github.com/user-attachments/assets/d8b9c3a7-71fc-40fa-9adf-f643fd8b5888" />
+
+
 ## Author
 
 **Sharanya Gada**
